@@ -2230,4 +2230,4 @@
     console.log(interval2.getMilliseconds());
 
 
-}) ()
+}) ();
