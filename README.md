@@ -3,7 +3,7 @@
 ## Easy transport
 + `Версия 1.7.4`
 + `Автор RiV`
-+ [установить](https://https://github.com/hellpain/ogame_scripts/raw/master/scripts/easy_transport/easy_transport.user.js)`
++ [установить](https://https://github.com/hellpain/ogame_scripts/raw/master/scripts/easy_transport/easy_transport.user.js)
 
 Добавляет возможность свозить недостающие ресы на постройки/исследования/корабли.
 
