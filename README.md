@@ -1,11 +1,27 @@
 ## Сборник скриптов для ogame
 
+##Установка
+Прежде чем устанавливать сами скрипты, вам потребуется установить плагин для вашего браузера.
+
+Для firefox это [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
+
+Для chrome это [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+
+Перезагрузите браузер.
+
+Теперь можете кликать по ссылкам ниже и скрипты будут устанавливаться=)
+
+## Antigame
++ [сайт](http://antigame.de/)
+
+Самая большая и мощная надстройка над игрой. Огромное количество возможностей, описание читайте на сайте. Плагин регулярно обновляется. Must have.
+
 ## OGame indicador actividad
 + `Версия 1.2.2`
 + `Автор HoChiChaos`
 + [установить](https://github.com/hellpain/ogame_scripts/raw/master/scripts/activity_indicator/activity_indicator.user.js)
 
-Показывает время последнего обновления страницы
+Показывает время последнего обновления страницы в браузерной вкладке.
 
 ## Auction Timer
 + `Версия 1.07`
@@ -61,7 +77,7 @@
 + `Автор Vesselin Bontchev`
 + [установить](https://github.com/hellpain/ogame_scripts/raw/master/scripts/player_status_in_highscore/player_status_in_highscore.user.js)
 
-Раскрашивает имена игроков так же, ка кони выглядят в галактике
+Раскрашивает имена игроков так же, как они выглядят в галактике (Полезна подсветка РО например)
 
 ## Rediseño Recursos Ampliados 1.37.7
 + `Версия 1.37.7`
@@ -82,7 +98,7 @@
 + `Автор Black Cat`
 + [установить](https://github.com/hellpain/ogame_scripts/raw/master/scripts/search_players/search_players.user.js)
 
-В меню поиска игроков выводит все его планеты, вместо только главной.
+В меню поиска игроков выводит все его планеты, а не только главную.
 
 ## Websim: Battle Profitability Indicator
 + `Версия 1.01`
