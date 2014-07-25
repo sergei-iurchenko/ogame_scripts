@@ -28,12 +28,26 @@
 
 Добавляет возможность свозить недостающие ресы на постройки/исследования/корабли.
 
-## Highsrore improved
+## Empire Extension
++ `Версия 3.2.11`
++ `Автор -`
++ [установить](https://github.com/hellpain/ogame_scripts/raw/master/scripts/empire_extension/empire_extension.user.js)
+
+Расширение для вкладки Империя (для командира)
+
+## Highscore improved
 + `Версия 1.0.6`
 + `Автор marshen`
 + [установить](https://github.com/hellpain/ogame_scripts/raw/master/scripts/highsrore_improved/highsrore_improved.user.js)
 
 В Статистике показывает подробную информацию об игроке. 
+
+## Keyboard Shortcuts
++ `Версия 2.04`
++ `Автор Vesselin Bontchev`
++ [установить](https://github.com/hellpain/ogame_scripts/raw/master/scripts/keyboard_shortcut/keyboard_shortcut.user.js)
+
+Поддержка горячих клавиши
 
 ## No reload for Movement page
 + `Версия 1.0`
@@ -41,6 +55,13 @@
 + [установить](https://github.com/hellpain/ogame_scripts/raw/master/scripts/no_reload_for_movement_page/no_reload_for_movement_page.user.js)
 
 На странице передвижения флота не дает обновиться странице, когда что-то садится или долетает. Удобно, когда нужно точно отозвать флот, а перед ним летят шпики, которые обновят страницу. 
+
+## Show Players' Status in the Highscores
++ `Версия 1.02`
++ `Автор Vesselin Bontchev`
++ [установить](https://github.com/hellpain/ogame_scripts/raw/master/scripts/player_status_in_highscore/player_status_in_highscore.user.js)
+
+Раскрашивает имена игроков так же, ка кони выглядят в галактике
 
 ## Rediseño Recursos Ampliados 1.37.7
 + `Версия 1.37.7`

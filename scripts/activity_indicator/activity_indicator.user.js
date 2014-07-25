@@ -5,9 +5,6 @@
 // @version        1.2.2
 // @author         HoChiChaos
 // @include        http://*.ogame.*/game/index.php?*page=*
-// @updateURL      http://userscripts.org/scripts/source/149332.meta.js
-// @downloadURL    https://userscripts.org/scripts/source/149332.user.js
-// @require        http://userscripts.org/scripts/source/118453.user.js
 // ==/UserScript==
 
 (function () {

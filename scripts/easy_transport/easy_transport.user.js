@@ -3,8 +3,6 @@
 // @namespace      RiV-easytransport
 // @description    Provides links to easily transport the resources needed for a building/research
 // @version        1.7.4
-// @updateURL      http://userscripts.org/scripts/source/106689.meta.js
-// @downloadURL	   https://userscripts.org/scripts/source/106689.user.js
 // @include        http://*.ogame.*/game/index.php?*page=resources*
 // @include        http://*.ogame.*/game/index.php?*page=station*
 // @include        http://*.ogame.*/game/index.php?*page=research*

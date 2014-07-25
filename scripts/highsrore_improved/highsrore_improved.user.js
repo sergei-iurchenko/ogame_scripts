@@ -4,8 +4,6 @@
 // @description    Some improvements to the highscore like a bar to switch between lists even if you are scrolled down.
 // @include        http://*.ogame.gameforge.com/game/index.php?page=highscore*
 // @version        1.0.6
-// @downloadURL    http://userscripts.org/scripts/source/121415.user.js
-// @updateURL      https://userscripts.org/scripts/source/121415.meta.js
 // ==/UserScript==
 
 (function(){
